@@ -1,0 +1,16 @@
+title = "Tech"
+
+[[projects]]
+name = "Hardware"
+folder = "edison"
+top_img = "circuit.gif"
+
+[[projects]]
+name = "Server Side"
+folder = "node_js"
+top_img = "thumb.jpg"
+
+[[projects]]
+name = "Client Side"
+folder = "swift"
+top_img = "thumb.jpg"

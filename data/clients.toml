@@ -1,0 +1,20 @@
+# Section title
+title = "Contributor"
+
+[[list]]
+avatar = "shopetan.jpg"
+name   = "KIKUCHI Shohei"
+title  = "Director, Server Side Engineer"
+quote  = "**セキュキャンマン**  -  木更津高専出身。Asobeatのモデル設計・データ設計・サーバサイドといった裏方を担当した。メンバーにお茶を汲みながらこのWebページも制作。2015年は鬼のようにインターンに行き、それなりにコンペも勝ったが開発は好きではないことを自覚。技術そのものを学ぶ方が好き。 "
+
+[[list]]
+avatar = "prpr_man.jpg"
+name   = "OHARADA Kazuya"
+title  = "writer, Hardware Developer"
+quote  = "**刮目せよ その言葉に。**  -  鈴鹿高専出身。Hardwareの設計は彼が担当。ウェアラブルのこだわりが強く、自作基盤による省スペース・軽量化を実現した。開発者の一面を見せながら、歩くキャッチコピー製造マンである。これらのキャッチコピーは全て彼によって作成されたものである。"
+
+[[list]]
+avatar = "minami.jpg"
+name   = "BABA minami"
+title  = "Client Engineer"
+quote  = "**その女 100人月．**  -  群馬で高校時代を過ごし，筑波大学へ入学．iOSクライアントを開発する一方でクライアントのデザインも考えるテクニカルクリエイター．大学1年にしてiOSのアプリ制作をはじめ，3年で10本以上のiOSアプリを開発するその姿はまさに100人月．このアプリケーションもプロトタイプを1日で完成させたらしい．"
